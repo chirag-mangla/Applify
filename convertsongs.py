@@ -14,7 +14,7 @@ delay = 1
 if len(argv) > 1 and argv[1]:
     pass
 else:
-    print('\nCommand usage:\npython3 convertsongs.py yourplaylist.csv\nMore info at https://github.com/therealmarius/Spotify-2-AppleMusic')
+    print('\nCommand usage:\npython3 convertsongs.py yourplaylist.csv\nMore info at https://github.com/chirag-mangla/Applify')
     exit()
 
 # Function to get contents of file if it exists
